@@ -37,3 +37,4 @@ public class Linear_Search {
         return -1;
     }
 }
+//This code was contributed by 'F.Mohamed Abdullah'
